@@ -1,0 +1,27 @@
+.contenedor{
+
+	width: 600px;
+	border: 1px solid black;
+	display: inline-block;
+}
+.caja{
+	width: 100px;
+	height: 100px;	
+	float: left;
+
+}
+.amarilla{
+	
+	background-color: yellow;
+	
+}
+.azul{
+
+	background-color: blue;
+	
+}
+.rosado{
+
+	background-color: pink;
+	
+}
